@@ -1,0 +1,15 @@
+/home/jiro/Documents/projects/OopT3/bin/Debug/net6.0/OopT3
+/home/jiro/Documents/projects/OopT3/bin/Debug/net6.0/OopT3.deps.json
+/home/jiro/Documents/projects/OopT3/bin/Debug/net6.0/OopT3.runtimeconfig.json
+/home/jiro/Documents/projects/OopT3/bin/Debug/net6.0/OopT3.dll
+/home/jiro/Documents/projects/OopT3/bin/Debug/net6.0/OopT3.pdb
+/home/jiro/Documents/projects/OopT3/obj/Debug/net6.0/OopT3.csproj.AssemblyReference.cache
+/home/jiro/Documents/projects/OopT3/obj/Debug/net6.0/OopT3.GeneratedMSBuildEditorConfig.editorconfig
+/home/jiro/Documents/projects/OopT3/obj/Debug/net6.0/OopT3.AssemblyInfoInputs.cache
+/home/jiro/Documents/projects/OopT3/obj/Debug/net6.0/OopT3.AssemblyInfo.cs
+/home/jiro/Documents/projects/OopT3/obj/Debug/net6.0/OopT3.csproj.CoreCompileInputs.cache
+/home/jiro/Documents/projects/OopT3/obj/Debug/net6.0/OopT3.dll
+/home/jiro/Documents/projects/OopT3/obj/Debug/net6.0/refint/OopT3.dll
+/home/jiro/Documents/projects/OopT3/obj/Debug/net6.0/OopT3.pdb
+/home/jiro/Documents/projects/OopT3/obj/Debug/net6.0/OopT3.genruntimeconfig.cache
+/home/jiro/Documents/projects/OopT3/obj/Debug/net6.0/ref/OopT3.dll
